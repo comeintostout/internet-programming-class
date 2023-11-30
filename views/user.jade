@@ -1,0 +1,17 @@
+doctype html
+html(lang="en")
+  head
+    meta(charset="UTF-8")
+    title User List
+  body
+    h1 Search Result
+    table(border="1")
+      tr
+        th ID
+        th Name
+        th Email
+      each user in users
+        tr
+          td= user.id
+          td= user.name
+          td= user.email
