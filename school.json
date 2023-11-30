@@ -1,0 +1,57 @@
+[
+  {
+    "name": "munhyeongbin",
+    "id": "cse11111111",
+    "password": "asdf1234",
+    "email": "1111@naver.com",
+    "address": "home",
+    "phone": "010-0000-0000",
+    "schoolname": "sognag university",
+    "major": "Electronic",
+    "interests": "Else"
+  },
+  {
+    "name": "kimjaeyong",
+    "id": "cse22222222",
+    "password": "asdf5678",
+    "email": "2222@naver.com",
+    "address": "Seoul",
+    "phone": "010-1111-2222",
+    "schoolname": "sognag university",
+    "major": "Computer Science",
+    "interests": "Else"
+  },
+  {
+    "name": "parkjisu",
+    "id": "cse33333333",
+    "password": "asdf1011",
+    "email": "3333@naver.com",
+    "address": "GawngYang",
+    "phone": "010-2222-3333",
+    "schoolname": "sognag university",
+    "major": "Mechanical",
+    "interests": "Electronic"
+  },
+  {
+    "name": "leedawon",
+    "id": "cse44444444",
+    "password": "qwer1324",
+    "email": "4444@naver.com",
+    "address": "paju",
+    "phone": "010-3333-4444",
+    "schoolname": "sognag university",
+    "major": "Electronic",
+    "interests": "Chemical and Biomolecular"
+  },
+  {
+    "name": "choigusick",
+    "id": "cse55555555",
+    "password": "zxcv4321",
+    "email": "5555@naver.com",
+    "address": "jeju",
+    "phone": "010-5555-6666",
+    "schoolname": "sognag university",
+    "major": "Else",
+    "interests": "Electronic"
+  }
+]
